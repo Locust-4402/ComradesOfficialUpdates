@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2026-08-13",
+    "tag": "Patch",
+    "title": "Comrades Cassettes — 4 new songs added",
+    "body": "Comrades Cassettes has been updated with 4 new songs."
+  },
+  {
+    "date": "2026-08-12",
+    "tag": "Patch",
+    "title": "Comrades Cola spawning confirmed",
+    "body": "Comrades Cola is now spawning on the server as intended."
+  },
+  {
+    "date": "2026-08-12",
+    "tag": "Patch",
+    "title": "Fresh spawns now include a Comrades Cola",
+    "body": "New characters now spawn with a Comrades Cola in their inventory."
+  },
+  {
+    "date": "2026-08-12",
+    "tag": "Patch",
+    "title": "Day/night acceleration adjusted",
+    "body": "Day acceleration changed to 5.4. Night acceleration changed to 2.17."
+  },
+  {
+    "date": "2026-08-12",
+    "tag": "Patch",
+    "title": "AI accuracy lowered, MMG storage despawn fixes",
+    "body": "Lowered AI accuracy.\nFixed MMG_woodrack despawn issue.\nFixed MMG_wood_table despawn issue."
+  },
+  {
+    "date": "2026-08-10",
+    "tag": "Patch",
+    "title": "Server message errors — fix in progress",
+    "body": "Found the reason behind the server message errors. A fix is in progress."
+  },
+  {
+    "date": "2026-08-08",
+    "tag": "Announcement",
+    "title": "Now listed on DZSA Launcher",
+    "body": "The server is now listed on DZSA Launcher, with the Discord invite linked."
+  },
+  {
+    "date": "2026-08-04",
+    "tag": "Patch",
+    "title": "Building Fortifications despawn fix",
+    "body": "Fixed Building Fortifications pieces triggering the dynamic economy despawn cycle after being built."
+  },
+  {
+    "date": "2026-08-03",
+    "tag": "Patch",
+    "title": "Fire mode switch added to Mlock19",
+    "body": "A full-auto / semi-auto fire mode switch has been added to the Mlock19."
+  },
+  {
+    "date": "2026-08-01",
+    "tag": "Announcement",
+    "title": "Server switched to 1st person only",
+    "body": "The server has been changed to 1st person only."
+  },
+  {
+    "date": "2026-08-01",
+    "tag": "Patch",
+    "title": "Comrades Cassettes updated",
+    "body": "Comrades Cassettes (for Zen's Music) has been updated — added a few requested tracks plus 18 other misc songs."
+  },
+  {
+    "date": "2026-07-31",
+    "tag": "Patch",
+    "title": "Universal Suppressors V2 client fix",
+    "body": "Fixed Universal Suppressors V2 not auto-loading for clients."
+  },
+  {
+    "date": "2026-07-31",
+    "tag": "Patch",
+    "title": "Comrades Cola spawn fixed",
+    "body": "Fixed Comrades Cola not spawning. They'll remain an uncommon find, though."
+  }
+]
